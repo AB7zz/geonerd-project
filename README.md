@@ -1,1 +1,2 @@
+# GeoNerd
 This is a free version of the game GeoGuessr through which any geo enthusiast can practice and improve their geography skills. It's a real-time multiplayer game where all participants will be given a random street location and they'll have to pin point the exact location on the map. Each participant is given a score based on how near they guessed the location. This promotes competitiveness, more knowledge and is also a fun-game to pass time with friends, all for a cost of 0.
